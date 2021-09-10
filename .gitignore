@@ -32,3 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# URL imports cache
+client.webpack.lock.data
+server.webpack.lock.data
